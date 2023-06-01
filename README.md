@@ -13,3 +13,5 @@ El repositorio está organizado de la siguiente manera:
 - **Modeling**: Esta sección contiene los notebooks relacionados con la construcción de los modelos de datos y corpus.
 
 - **Evaluation**: En esta parte encontrarás los notebooks que se centran en la evaluación de los resultados obtenidos de los modelos.
+
+### **Cabe destacar que la data que utilizan los notebooks no se encuentran en este repositorio**
