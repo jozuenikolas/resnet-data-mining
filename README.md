@@ -8,7 +8,7 @@ El repositorio está organizado de la siguiente manera:
 
 - **Data Understanding**: Contiene los notebooks relacionados a la recoleccion inicial de datos, descripción de los datos, exploracion de los datos y verificacion de la calidad de los datos.
 
-- **Data Preparation**: Aquí se encuentran los notebooks que se enfocan en la preparación de los datos. Tambien se encuentran los notebooks utilizados para cargar la data en la base de datos Neo4j.
+- **Data Preparation**: Aquí se encuentran los notebooks que se enfocan en la preparación de los datos. También se encuentran los notebooks utilizados para cargar la data en la base de datos Neo4j.
 
 - **Modeling**: Esta sección contiene los notebooks relacionados con la construcción de los modelos de datos y corpus.
 
